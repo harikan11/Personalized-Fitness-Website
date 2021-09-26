@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/*
+.abstract-pink{
+    display:flex;
+    justify-content: flex-start;
+    object-fit: contain;
+    margin-top: -990px;
+    margin-left:-70px;
+    height:900px;
+    
+} 
+.abstract-black{
+    display:flex;
+    justify-content:space-between;
+    height:900px;
+    width:1000px;
+    margin-top:-50px;
+    margin-left: -70px;
+}*/
+
+.initial{
+    /*background: no-repeat fixed center;*/
+    /*position:initial;*/
+    display:flex;
+    justify-content: left;
+    height: 640px;
+    width:30%;
+    margin-left: -30px;
+    margin-top: -10px;
+    
+
+}
+
+.women-picture{
+    display: flex;
+    justify-content: flex-start;
+    height:500px;
+    width:40%;
+    margin-top: -670px;
+
+}
+
+
+.heading{
+    display: flex;
+    justify-content: space-around;
+    height:70px;
+    margin-top: -420px;
+    margin-left: 800px;
+}
+
+.paragraph1 p{
+    display: flex;
+    justify-content: flex-end;
+    text-align: justify;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:5px;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+.paragraph1{
+    margin-top: 20px;
+    margin-right:35px;
+}
+
+.paragraph2 p{
+    text-align: justify;
+    justify-content: flex-end;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: flex;
+    margin-top:5px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.paragraph2{
+    margin-top:30px;
+    margin-right:35px;
+}
